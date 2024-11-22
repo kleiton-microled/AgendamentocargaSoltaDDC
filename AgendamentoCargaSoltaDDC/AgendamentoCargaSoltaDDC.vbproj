@@ -107,6 +107,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Acesso.aspx" />
     <Content Include="AlterarMotoristas.aspx" />
     <Content Include="AlterarVeiculos.aspx" />
