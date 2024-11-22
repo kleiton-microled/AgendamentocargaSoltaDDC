@@ -1,0 +1,1721 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AgendamentoCS_Armazem
+</name>
+</assembly>
+<members>
+<member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtIDTransportadora">
+	<summary>
+txtIDTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtTransportadora">
+	<summary>
+txtTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtPlacaCavalo">
+	<summary>
+txtPlacaCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtPlacaCarreta">
+	<summary>
+txtPlacaCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtTaraVeiculo">
+	<summary>
+txtTaraVeiculo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtModelo">
+	<summary>
+txtModelo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtCor">
+	<summary>
+txtCor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtChassi">
+	<summary>
+txtChassi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.txtRenavam">
+	<summary>
+txtRenavam control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.cbTipoCarreta">
+	<summary>
+cbTipoCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.btRetornar">
+	<summary>
+btRetornar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.btSalvar">
+	<summary>
+btSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.PanelMsg">
+	<summary>
+PanelMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.lblMsgOK">
+	<summary>
+lblMsgOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarVeiculos.lblMsgErro">
+	<summary>
+lblMsgErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.form2">
+	<summary>
+form2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtNomeMotorista">
+	<summary>
+txtNomeMotorista control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.cbCNH">
+	<summary>
+cbCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.cbCavalo">
+	<summary>
+cbCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.cbCarreta">
+	<summary>
+cbCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtTara">
+	<summary>
+txtTara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtChassi">
+	<summary>
+txtChassi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtTransportadora">
+	<summary>
+txtTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblProtocolo">
+	<summary>
+lblProtocolo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblID">
+	<summary>
+lblID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.btNovo">
+	<summary>
+btNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.btSalvar">
+	<summary>
+btSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.btExcluir">
+	<summary>
+btExcluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.cbTipoDocSaida">
+	<summary>
+cbTipoDocSaida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtSerieDocSaida">
+	<summary>
+txtSerieDocSaida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtNrDocSaida">
+	<summary>
+txtNrDocSaida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtEmissaoDocSaida">
+	<summary>
+txtEmissaoDocSaida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.cbLote">
+	<summary>
+cbLote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.PanelScrollPeriodos">
+	<summary>
+PanelScrollPeriodos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.dgPeriodos">
+	<summary>
+dgPeriodos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblCodigoPeriodo">
+	<summary>
+lblCodigoPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtNotaFiscal">
+	<summary>
+txtNotaFiscal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtSerie">
+	<summary>
+txtSerie control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.txtDataEmissao">
+	<summary>
+txtDataEmissao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.btVincular">
+	<summary>
+btVincular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.PanelPatioInvalido">
+	<summary>
+PanelPatioInvalido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblPatioInvalido">
+	<summary>
+lblPatioInvalido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.PanelScrollNotas">
+	<summary>
+PanelScrollNotas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.dgNotas">
+	<summary>
+dgNotas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.pnLegenda">
+	<summary>
+pnLegenda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblLoteSelecionado1">
+	<summary>
+lblLoteSelecionado1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblPatio">
+	<summary>
+lblPatio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.dgItensCS">
+	<summary>
+dgItensCS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.pnLegendaItens">
+	<summary>
+pnLegendaItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblLoteSelecionado2">
+	<summary>
+lblLoteSelecionado2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblNotaSelecionada">
+	<summary>
+lblNotaSelecionada control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.lblIDNotaSelecionada">
+	<summary>
+lblIDNotaSelecionada control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarAgendamentos.dgItens">
+	<summary>
+dgItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.PanelBarra">
+	<summary>
+PanelBarra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.btNovo">
+	<summary>
+btNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.btPesquisar">
+	<summary>
+btPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbModoImpressao">
+	<summary>
+cbModoImpressao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.btImprimir">
+	<summary>
+btImprimir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.PanelPesquisa">
+	<summary>
+PanelPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro1">
+	<summary>
+cbFiltro1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtProtocolo">
+	<summary>
+txtProtocolo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro2">
+	<summary>
+cbFiltro2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtCavalo">
+	<summary>
+txtCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro3">
+	<summary>
+cbFiltro3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtCarreta">
+	<summary>
+txtCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro4">
+	<summary>
+cbFiltro4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtCNH">
+	<summary>
+txtCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro5">
+	<summary>
+cbFiltro5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtMotorista">
+	<summary>
+txtMotorista control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro6">
+	<summary>
+cbFiltro6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.txtDocumento">
+	<summary>
+txtDocumento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbFiltro7">
+	<summary>
+cbFiltro7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.cbTipoDoc">
+	<summary>
+cbTipoDoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.btLimpar">
+	<summary>
+btLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.btFiltrar">
+	<summary>
+btFiltrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarAgendamentos.DgAgendamentos">
+	<summary>
+DgAgendamentos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtIDTransportadora">
+	<summary>
+txtIDTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtTransportadora">
+	<summary>
+txtTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtCNH">
+	<summary>
+txtCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.btConsultarCNH">
+	<summary>
+btConsultarCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtValidadeCNH">
+	<summary>
+txtValidadeCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtRG">
+	<summary>
+txtRG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtCPF">
+	<summary>
+txtCPF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtCelular">
+	<summary>
+txtCelular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator8">
+	<summary>
+RequiredFieldValidator8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtNextel">
+	<summary>
+txtNextel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.txtNumeroMOP">
+	<summary>
+txtNumeroMOP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.cbCavalo">
+	<summary>
+cbCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.cbCarreta">
+	<summary>
+cbCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.RequiredFieldValidator7">
+	<summary>
+RequiredFieldValidator7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.btRetornar">
+	<summary>
+btRetornar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.btLimpar">
+	<summary>
+btLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.btSalvar">
+	<summary>
+btSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.PanelMsg">
+	<summary>
+PanelMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.lblMsgOK">
+	<summary>
+lblMsgOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CadastrarMotoristas.lblMsgErro">
+	<summary>
+lblMsgErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.PanelBarra">
+	<summary>
+PanelBarra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.btNovo">
+	<summary>
+btNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.btPesquisar">
+	<summary>
+btPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.PanelPesquisa">
+	<summary>
+PanelPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro1">
+	<summary>
+cbFiltro1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtCavalo">
+	<summary>
+txtCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro2">
+	<summary>
+cbFiltro2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtCarreta">
+	<summary>
+txtCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro3">
+	<summary>
+cbFiltro3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtModelo">
+	<summary>
+txtModelo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro4">
+	<summary>
+cbFiltro4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtCor">
+	<summary>
+txtCor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro5">
+	<summary>
+cbFiltro5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtChassi">
+	<summary>
+txtChassi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro6">
+	<summary>
+cbFiltro6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.txtTara">
+	<summary>
+txtTara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbFiltro7">
+	<summary>
+cbFiltro7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.cbTipo">
+	<summary>
+cbTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.btLimpar">
+	<summary>
+btLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.btFiltrar">
+	<summary>
+btFiltrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarVeiculos.DgVeiculos">
+	<summary>
+DgVeiculos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:AgendamentoCS_Armazem.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:AgendamentoCS_Armazem.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:AgendamentoCS_Armazem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AgendamentoCS_Armazem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AgendamentoCS_Armazem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtID">
+	<summary>
+txtID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtIDTransportadora">
+	<summary>
+txtIDTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtTransportadora">
+	<summary>
+txtTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtPlacaCavalo">
+	<summary>
+txtPlacaCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtPlacaCarreta">
+	<summary>
+txtPlacaCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtTaraVeiculo">
+	<summary>
+txtTaraVeiculo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtModelo">
+	<summary>
+txtModelo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtCor">
+	<summary>
+txtCor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtChassi">
+	<summary>
+txtChassi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.txtRenavam">
+	<summary>
+txtRenavam control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.cbTipoCarreta">
+	<summary>
+cbTipoCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.btRetornar">
+	<summary>
+btRetornar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.btExcluir">
+	<summary>
+btExcluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.btSalvar">
+	<summary>
+btSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.PanelMsg">
+	<summary>
+PanelMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.lblMsgOK">
+	<summary>
+lblMsgOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarVeiculos.lblMsgErro">
+	<summary>
+lblMsgErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtID">
+	<summary>
+txtID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtIDTransportadora">
+	<summary>
+txtIDTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtTransportadora">
+	<summary>
+txtTransportadora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtCNH">
+	<summary>
+txtCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtValidadeCNH">
+	<summary>
+txtValidadeCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtRG">
+	<summary>
+txtRG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtCPF">
+	<summary>
+txtCPF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtCelular">
+	<summary>
+txtCelular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtNextel">
+	<summary>
+txtNextel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtNumeroMOP">
+	<summary>
+txtNumeroMOP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtCavalo">
+	<summary>
+txtCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.txtCarreta">
+	<summary>
+txtCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.btRetornar">
+	<summary>
+btRetornar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.btExcluir">
+	<summary>
+btExcluir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.btSalvar">
+	<summary>
+btSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.PanelMsg">
+	<summary>
+PanelMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.lblMsgOK">
+	<summary>
+lblMsgOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.AlterarMotoristas.lblMsgErro">
+	<summary>
+lblMsgErro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.PanelBarra">
+	<summary>
+PanelBarra control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.btNovo">
+	<summary>
+btNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.btPesquisar">
+	<summary>
+btPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.PanelPesquisa">
+	<summary>
+PanelPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.cbFiltro1">
+	<summary>
+cbFiltro1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.txtCavalo">
+	<summary>
+txtCavalo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.cbFiltro2">
+	<summary>
+cbFiltro2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.txtCarreta">
+	<summary>
+txtCarreta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.cbFiltro3">
+	<summary>
+cbFiltro3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.txtCNH">
+	<summary>
+txtCNH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.cbFiltro4">
+	<summary>
+cbFiltro4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.txtMotorista">
+	<summary>
+txtMotorista control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.btLimpar">
+	<summary>
+btLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.btFiltrar">
+	<summary>
+btFiltrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.ConsultarMotoristas.DgMotoristas">
+	<summary>
+DgMotoristas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.CancelarAgendamento.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.Consultas.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.Consultas.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AgendamentoCS_Armazem.Consultas.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

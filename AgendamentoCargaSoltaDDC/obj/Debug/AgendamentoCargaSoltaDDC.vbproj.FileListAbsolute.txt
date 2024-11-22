@@ -1,0 +1,105 @@
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbprojAssemblyReference.cache
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CopyComplete
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\comer\GitHub\ECOPORTO.AGENDAMENTO\ECOPORTO.AGENDAMENTO\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.AssemblyReference.cache
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CopyComplete
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\fabiodelpapa\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbprojAssemblyReference.cache
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CopyComplete
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\DropMicroled\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.AssemblyReference.cache
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.AssemblyReference.cache
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CopyComplete
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\Roger\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.AssemblyReference.cache
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CopyComplete
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\MLED2\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb
+C:\Users\comer\Dropbox\ecoporto\Ecoporto .NET\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Agendame.8D52DAF3.Up2Date
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll.config
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.dll
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.pdb
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AgendamentoCargaSoltaDDC.xml
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\bin\AjaxControlToolkit.dll
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.AssemblyReference.cache
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Interop.ADODB.dll
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.ResolveComReference.cache
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.Resources.resources
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.GenerateResource.cache
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.vbproj.CoreCompileInputs.cache
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\Agendame.8D52DAF3.Up2Date
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.dll
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.xml
+C:\Users\kfreitas\Dropbox\Ecoporto.Agendamentos\src\Agendamento Carga Solta DDC\AgendamentoCargaSoltaDDC\obj\Debug\AgendamentoCargaSoltaDDC.pdb

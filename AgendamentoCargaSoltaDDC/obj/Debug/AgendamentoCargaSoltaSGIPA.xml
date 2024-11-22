@@ -1,0 +1,2091 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AgendamentoCargaSoltaSGIPA
+</name>
+</assembly>
+<members>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtID">
+<summary>
+txtID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtIDTransportadora">
+<summary>
+txtIDTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtTransportadora">
+<summary>
+txtTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtCNH">
+<summary>
+txtCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtValidadeCNH">
+<summary>
+txtValidadeCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtValidadeCNH_MaskedEditExtender">
+<summary>
+txtValidadeCNH_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RegularExpressionValidator1">
+<summary>
+RegularExpressionValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtNome">
+<summary>
+txtNome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RequiredFieldValidator3">
+<summary>
+RequiredFieldValidator3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtRG">
+<summary>
+txtRG control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RequiredFieldValidator4">
+<summary>
+RequiredFieldValidator4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtCPF">
+<summary>
+txtCPF control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtCPF_MaskedEditExtender">
+<summary>
+txtCPF_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._CompareValidator1">
+<summary>
+CompareValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtCelular">
+<summary>
+txtCelular control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtCelular_MaskedEditExtender">
+<summary>
+txtCelular_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._CompareValidator2">
+<summary>
+CompareValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtNextel">
+<summary>
+txtNextel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._RequiredFieldValidator6">
+<summary>
+RequiredFieldValidator6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._txtNumeroMOP">
+<summary>
+txtNumeroMOP control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._btRetornar">
+<summary>
+btRetornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._btExcluir">
+<summary>
+btExcluir control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._btSalvar">
+<summary>
+btSalvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._PanelMsg">
+<summary>
+PanelMsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._lblMsgOK">
+<summary>
+lblMsgOK control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarMotoristas._lblMsgErro">
+<summary>
+lblMsgErro control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtID">
+<summary>
+txtID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtIDTransportadora">
+<summary>
+txtIDTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtTransportadora">
+<summary>
+txtTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtPlacaCavalo">
+<summary>
+txtPlacaCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtPlacaCavalo_MaskedEditExtender">
+<summary>
+txtPlacaCavalo_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtPlacaCarreta">
+<summary>
+txtPlacaCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtPlacaCarreta_MaskedEditExtender">
+<summary>
+txtPlacaCarreta_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtTaraVeiculo">
+<summary>
+txtTaraVeiculo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtModelo">
+<summary>
+txtModelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._RequiredFieldValidatorMod">
+<summary>
+RequiredFieldValidatorMod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtCor">
+<summary>
+txtCor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._RequiredFieldValidatorCor">
+<summary>
+RequiredFieldValidatorCor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtChassi">
+<summary>
+txtChassi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._txtRenavam">
+<summary>
+txtRenavam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._RequiredFieldValidator5">
+<summary>
+RequiredFieldValidator5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._cbTipoCarreta">
+<summary>
+cbTipoCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._RequiredFieldValidator6">
+<summary>
+RequiredFieldValidator6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._btRetornar">
+<summary>
+btRetornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._btExcluir">
+<summary>
+btExcluir control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._btSalvar">
+<summary>
+btSalvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._PanelMsg">
+<summary>
+PanelMsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._lblMsgOK">
+<summary>
+lblMsgOK control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.AlterarVeiculos._lblMsgErro">
+<summary>
+lblMsgErro control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._PanelForm">
+<summary>
+PanelForm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._form2">
+<summary>
+form2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtNomeMotorista">
+<summary>
+txtNomeMotorista control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCNH">
+<summary>
+cbCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCNH_ListSearchExtender">
+<summary>
+cbCNH_ListSearchExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCavalo">
+<summary>
+cbCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCavalo_ListSearchExtender">
+<summary>
+cbCavalo_ListSearchExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCarreta">
+<summary>
+cbCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbCarreta_ListSearchExtender">
+<summary>
+cbCarreta_ListSearchExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtTara">
+<summary>
+txtTara control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtChassi">
+<summary>
+txtChassi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._CheckAutonomo">
+<summary>
+CheckAutonomo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtTransportadora">
+<summary>
+txtTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblProtocolo">
+<summary>
+lblProtocolo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblID">
+<summary>
+lblID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._btNovo">
+<summary>
+btNovo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._btSalvar">
+<summary>
+btSalvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._btExcluir">
+<summary>
+btExcluir control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbTipoDocSaida">
+<summary>
+cbTipoDocSaida control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtSerieDocSaida">
+<summary>
+txtSerieDocSaida control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtNrDocSaida">
+<summary>
+txtNrDocSaida control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtEmissaoDocSaida">
+<summary>
+txtEmissaoDocSaida control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbConteiner">
+<summary>
+cbConteiner control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._PanelScrollPeriodos">
+<summary>
+PanelScrollPeriodos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._dgPeriodos">
+<summary>
+dgPeriodos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblPeriodo">
+<summary>
+lblPeriodo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblCodigoPeriodo">
+<summary>
+lblCodigoPeriodo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtNotaFiscal">
+<summary>
+txtNotaFiscal control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtSerie">
+<summary>
+txtSerie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtDataEmissao">
+<summary>
+txtDataEmissao control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._cbItensCS">
+<summary>
+cbItensCS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._txtQtde">
+<summary>
+txtQtde control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._btnAdicProduto">
+<summary>
+btnAdicProduto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._btnExcluirProduto">
+<summary>
+btnExcluirProduto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._PanelPatioInvalido">
+<summary>
+PanelPatioInvalido control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblPatioInvalido">
+<summary>
+lblPatioInvalido control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._PanelScrollNotas">
+<summary>
+PanelScrollNotas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._dgNotas">
+<summary>
+dgNotas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._pnLegenda">
+<summary>
+pnLegenda control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblLoteSelecionado1">
+<summary>
+lblLoteSelecionado1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos._lblPatio">
+<summary>
+lblPatio control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.CadastrarAgendamentos.CarregarItensCS(System.String,System.Int32)">
+<summary>
+ Carrega os produtos que têm num determinado lote; AutonumProd é Autonum da Mercadoria, caso não exista é -1
+ </summary>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtIDTransportadora">
+<summary>
+txtIDTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtTransportadora">
+<summary>
+txtTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtCNH">
+<summary>
+txtCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._btConsultarCNH">
+<summary>
+btConsultarCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtValidadeCNH">
+<summary>
+txtValidadeCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtValidadeCNH_MaskedEditExtender">
+<summary>
+txtValidadeCNH_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RegularExpressionValidator1">
+<summary>
+RegularExpressionValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtNome">
+<summary>
+txtNome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RequiredFieldValidator3">
+<summary>
+RequiredFieldValidator3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtRG">
+<summary>
+txtRG control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RequiredFieldValidator4">
+<summary>
+RequiredFieldValidator4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtCPF">
+<summary>
+txtCPF control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtCPF_MaskedEditExtender">
+<summary>
+txtCPF_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._CompareValidator1">
+<summary>
+CompareValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtCelular">
+<summary>
+txtCelular control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtCelular_MaskedEditExtender">
+<summary>
+txtCelular_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._CompareValidator2">
+<summary>
+CompareValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtNextel">
+<summary>
+txtNextel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._RequiredFieldValidator8">
+<summary>
+RequiredFieldValidator8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._txtNumeroMOP">
+<summary>
+txtNumeroMOP control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._btRetornar">
+<summary>
+btRetornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._btLimpar">
+<summary>
+btLimpar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._btSalvar">
+<summary>
+btSalvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._PanelMsg">
+<summary>
+PanelMsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._lblMsgOK">
+<summary>
+lblMsgOK control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarMotoristas._lblMsgErro">
+<summary>
+lblMsgErro control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtIDTransportadora">
+<summary>
+txtIDTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtTransportadora">
+<summary>
+txtTransportadora control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtPlacaCavalo">
+<summary>
+txtPlacaCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtPlacaCavalo_MaskedEditExtender">
+<summary>
+txtPlacaCavalo_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._CompareValidator1">
+<summary>
+CompareValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtPlacaCarreta">
+<summary>
+txtPlacaCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtPlacaCarreta_MaskedEditExtender">
+<summary>
+txtPlacaCarreta_MaskedEditExtender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtTaraVeiculo">
+<summary>
+txtTaraVeiculo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtModelo">
+<summary>
+txtModelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._RequiredFieldValidatorMod">
+<summary>
+RequiredFieldValidatorMod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtCor">
+<summary>
+txtCor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._RequiredFieldValidatorCor">
+<summary>
+RequiredFieldValidatorCor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtChassi">
+<summary>
+txtChassi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._txtRenavam">
+<summary>
+txtRenavam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._RequiredFieldValidator5">
+<summary>
+RequiredFieldValidator5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._cbTipoCarreta">
+<summary>
+cbTipoCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._RequiredFieldValidator6">
+<summary>
+RequiredFieldValidator6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._btRetornar">
+<summary>
+btRetornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._btSalvar">
+<summary>
+btSalvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._PanelMsg">
+<summary>
+PanelMsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._lblMsgOK">
+<summary>
+lblMsgOK control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CadastrarVeiculos._lblMsgErro">
+<summary>
+lblMsgErro control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.CancelarAgendamento._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.VerificarAgendTransp(System.String,System.String)">
+ <summary>
+ Verifica se o Agendamento de Carga Solta realmente pertence à transportadora logada, por questões de segurança
+ </summary>
+ <param name="IdAgend">Id do Agendamento que se pretende acessar</param>
+ <param name="IdTransp">Id da Transportadora que está logada</param>
+ <returns>True: Agendamento pertence à transportadora logada, False: agendamento não pertence à transportadora logada</returns>
+ <remarks>IdTransp que não é número inteiro deve ser verificado antes de acessar o método</remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.ConsultarConteineresDDC(System.String,System.Int32,System.String)">
+ <summary>
+ Consulta Lotes Disponíveis para um determinado agendamento
+ </summary>
+ <param name="ID">Autonum do Agendamento de Carga Solta</param>
+ <param name="Empresa">Nome da Empresa</param>
+ <param name="Lote">Lote do Agendamento (caso seja Consulta para Edição)</param>
+ <returns>Lotes Disponíveis para Agendamento</returns>
+ <remarks>Se for para edição também lista o lote do agendamento, independente de estar finalizado ou não o Agendamento,
+ Se estiver finalizado não tem problema listar os outros, POIS COM EDIT NÃO PODE ALTERAR O LOTE</remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.ConsultarLoteAgendamento(System.String)">
+ <summary>
+ Consulta Lote de um determinado Agendamento de Carga Solta
+ </summary>
+ <param name="ID">Autonum do Agendamento</param>
+ <returns>Lote do Agendamento; se não tiver retorna -1</returns>
+ <remarks>Procura se o lote existe na tabela TB_AG_CS_NF 
+ Caso não exista faz uma 2ª procura na tabela TB_AG_CS
+ Caso não encontrou, retorna -1</remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.AgendamentoFinalizado(System.Int32)">
+ <summary>
+ Verifica se um determinado Agendamento está Finalizado
+ </summary>
+ <param name="ID">Autonum do Agendamento</param>
+ <returns>True: Finalizado, False: Não finalizado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.AlterarNF(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Atualiza uma Nota Fiscal do Agendamento
+ </summary>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Agendamento.ConsultarDadosNota(System.String)">
+<summary>
+ Consulta dados das Notas Fiscais de um determinado agendamento, inclusive Produtos, embalagens e tipos de documentos
+</summary>
+ <param name="ID">Autonum do Agendamento CS</param>
+</member>
+<member name="M:AgendamentoCargaSoltaSGIPA.Empresa.ObterNomeFantasiaDiret(System.Int32)">
+ <summary>
+ Obtém o nome do diretório com CSS relacionado ao nome fantasia da empresa a partir do código desta
+ </summary>
+ <param name="TiaEmpresa">Autonum (TIAID) da Empresa</param>
+ <returns>Nome do diretório com CSS</returns>
+ <remarks></remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._PanelBarra">
+<summary>
+PanelBarra control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._btNovo">
+<summary>
+btNovo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._btPesquisar">
+<summary>
+btPesquisar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbModoImpressao">
+<summary>
+cbModoImpressao control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._btImprimir">
+<summary>
+btImprimir control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._PanelPesquisa">
+<summary>
+PanelPesquisa control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro1">
+<summary>
+cbFiltro1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtProtocolo">
+<summary>
+txtProtocolo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro2">
+<summary>
+cbFiltro2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtCavalo">
+<summary>
+txtCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro3">
+<summary>
+cbFiltro3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtCarreta">
+<summary>
+txtCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro4">
+<summary>
+cbFiltro4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtCNH">
+<summary>
+txtCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro5">
+<summary>
+cbFiltro5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtMotorista">
+<summary>
+txtMotorista control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._cbFiltro6">
+<summary>
+cbFiltro6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._txtDocumento">
+<summary>
+txtDocumento control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._btLimpar">
+<summary>
+btLimpar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._btFiltrar">
+<summary>
+btFiltrar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarAgendamentos._DgAgendamentos">
+<summary>
+DgAgendamentos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._PanelBarra">
+<summary>
+PanelBarra control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._btNovo">
+<summary>
+btNovo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._btPesquisar">
+<summary>
+btPesquisar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._PanelPesquisa">
+<summary>
+PanelPesquisa control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._cbFiltro1">
+<summary>
+cbFiltro1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._txtCavalo">
+<summary>
+txtCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._cbFiltro2">
+<summary>
+cbFiltro2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._txtCarreta">
+<summary>
+txtCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._cbFiltro3">
+<summary>
+cbFiltro3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._txtCNH">
+<summary>
+txtCNH control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._cbFiltro4">
+<summary>
+cbFiltro4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._txtMotorista">
+<summary>
+txtMotorista control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._btLimpar">
+<summary>
+btLimpar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._btFiltrar">
+<summary>
+btFiltrar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._PanelConsMotor">
+<summary>
+PanelConsMotor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarMotoristas._DgMotoristas">
+<summary>
+DgMotoristas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._PanelBarra">
+<summary>
+PanelBarra control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._btNovo">
+<summary>
+btNovo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._btPesquisar">
+<summary>
+btPesquisar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._PanelPesquisa">
+<summary>
+PanelPesquisa control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro1">
+<summary>
+cbFiltro1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtCavalo">
+<summary>
+txtCavalo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro2">
+<summary>
+cbFiltro2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtCarreta">
+<summary>
+txtCarreta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro3">
+<summary>
+cbFiltro3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtModelo">
+<summary>
+txtModelo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro4">
+<summary>
+cbFiltro4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtCor">
+<summary>
+txtCor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro5">
+<summary>
+cbFiltro5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtChassi">
+<summary>
+txtChassi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro6">
+<summary>
+cbFiltro6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._txtTara">
+<summary>
+txtTara control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbFiltro7">
+<summary>
+cbFiltro7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._cbTipo">
+<summary>
+cbTipo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._btLimpar">
+<summary>
+btLimpar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._btFiltrar">
+<summary>
+btFiltrar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.ConsultarVeiculos._DgVeiculos">
+<summary>
+DgVeiculos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.Consultas._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.Consultas._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:AgendamentoCargaSoltaSGIPA.Consultas._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:AgendamentoCargaSoltaSGIPA.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.Application">
+ <summary>
+ Returns information about the current application.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.MyWebExtension.WebServices">
+ <summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member>
+<member name="T:AgendamentoCargaSoltaSGIPA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AgendamentoCargaSoltaSGIPA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

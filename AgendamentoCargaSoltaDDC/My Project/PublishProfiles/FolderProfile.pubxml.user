@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\git\ddc</_PublishTargetUrl>
+    <History>False|2024-11-22T12:22:52.1312672Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Acesso.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="AlterarMotoristas.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="AlterarVeiculos.aspx">
+      <publishTime>03/02/2020 10:18:59</publishTime>
+    </File>
+    <File Include="bin/AgendamentoCargaSoltaDDC.dll">
+      <publishTime>11/22/2024 09:23:29</publishTime>
+    </File>
+    <File Include="bin/AgendamentoCargaSoltaDDC.pdb">
+      <publishTime>11/22/2024 09:23:29</publishTime>
+    </File>
+    <File Include="bin/AgendamentoCargaSoltaDDC.xml">
+      <publishTime>11/22/2024 09:23:29</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/20/2020 14:04:00</publishTime>
+    </File>
+    <File Include="CadastrarAgendamentos.aspx">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="CadastrarMotoristas.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="CadastrarVeiculos.aspx">
+      <publishTime>03/02/2020 10:18:33</publishTime>
+    </File>
+    <File Include="CancelarAgendamento.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="ConsultarAgendamentos.aspx">
+      <publishTime>02/10/2017 11:56:49</publishTime>
+    </File>
+    <File Include="ConsultarMotoristas.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="ConsultarVeiculos.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="css/ecoporto/ecoporto.css">
+      <publishTime>10/30/2015 10:28:43</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/Bg.jpg">
+      <publishTime>05/09/2013 13:57:18</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/bgBoxBottom.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/bgBoxMiddle.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/bgBoxUp.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/BgFooter.gif">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/bgMenuVertical.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/BgSite.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/bgTitle.png">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/BulletBoxTitle.gif">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/favicon.ico">
+      <publishTime>05/10/2013 18:15:12</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/LinhaMenuUp.gif">
+      <publishTime>05/08/2013 15:16:46</publishTime>
+    </File>
+    <File Include="css/ecoporto/images/LogoTop.png">
+      <publishTime>05/07/2013 17:50:12</publishTime>
+    </File>
+    <File Include="css/ibox.css">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="css/JQuery-UI.css">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/ecoporto.css">
+      <publishTime>05/17/2013 17:07:44</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_flat_15_cd0a0a_40x100.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_glass_100_e4f1fb_1x400.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_glass_50_3baae3_1x400.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_glass_80_d7ebf9_1x400.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_highlight-hard_70_000000_1x100.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_highlight-soft_100_deedf7_1x100.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-bg_highlight-soft_25_ffef8f_1x100.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-icons_2694e8_256x240.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-icons_3d80b3_256x240.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-icons_72a7cf_256x240.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/ecoporto/images/ui-icons_ffffff_256x240.png">
+      <publishTime>05/08/2013 15:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_flat_15_cd0a0a_40x100.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_glass_100_e4f1fb_1x400.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_glass_50_3baae3_1x400.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_glass_80_d7ebf9_1x400.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_highlight-hard_70_000000_1x100.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_highlight-soft_100_deedf7_1x100.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-bg_highlight-soft_25_ffef8f_1x100.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-icons_2694e8_256x240.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-icons_3d80b3_256x240.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-icons_72a7cf_256x240.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/images/ui-icons_ffffff_256x240.png">
+      <publishTime>05/08/2013 14:16:38</publishTime>
+    </File>
+    <File Include="css/temas/termares/termares.css">
+      <publishTime>05/17/2013 16:08:08</publishTime>
+    </File>
+    <File Include="css/termares/images/Bg.jpg">
+      <publishTime>05/09/2013 12:57:18</publishTime>
+    </File>
+    <File Include="css/termares/images/bgBoxBottom.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/bgBoxMiddle.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/bgBoxUp.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/BgFooter.gif">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/bgMenuVertical.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/BgSite.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/bgTitle.png">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/BulletBoxTitle.gif">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/favicon.ico">
+      <publishTime>05/10/2013 17:15:12</publishTime>
+    </File>
+    <File Include="css/termares/images/LinhaMenuUp.gif">
+      <publishTime>05/08/2013 14:16:46</publishTime>
+    </File>
+    <File Include="css/termares/images/LogoTop.png">
+      <publishTime>05/10/2013 10:51:08</publishTime>
+    </File>
+    <File Include="css/termares/termares.css">
+      <publishTime>05/17/2013 17:00:38</publishTime>
+    </File>
+    <File Include="Erro.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="imagens/check.png">
+      <publishTime>09/21/2011 09:23:49</publishTime>
+    </File>
+    <File Include="imagens/editar.gif">
+      <publishTime>09/16/2011 16:08:38</publishTime>
+    </File>
+    <File Include="imagens/excluir.png">
+      <publishTime>08/11/2011 15:35:50</publishTime>
+    </File>
+    <File Include="imagens/unchecked.png">
+      <publishTime>07/13/2012 10:30:36</publishTime>
+    </File>
+    <File Include="master/Consultas.Master">
+      <publishTime>03/11/2020 13:25:58</publishTime>
+    </File>
+    <File Include="Principal.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="Protocolo.aspx">
+      <publishTime>05/11/2016 16:48:33</publishTime>
+    </File>
+    <File Include="scripts/default.js">
+      <publishTime>03/02/2020 10:19:34</publishTime>
+    </File>
+    <File Include="scripts/ibox.extras.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/ibox.js">
+      <publishTime>02/27/2012 12:45:32</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.7.1.min.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/jquery-ui-1.8.5.custom.min.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.alphanumeric.js">
+      <publishTime>04/10/2012 12:16:23</publishTime>
+    </File>
+    <File Include="scripts/jquery.mask.min.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.maskedinput-1.2.2.min.js">
+      <publishTime>01/10/2012 10:43:59</publishTime>
+    </File>
+    <File Include="scripts/jquery.maskMoney.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.numeric.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="scripts/jquery.ui.datepicker.js">
+      <publishTime>07/22/2021 17:19:41</publishTime>
+    </File>
+    <File Include="Service References/WsBDCC/AgendamentoCargaSoltaDDC.WsBDCC.BdccAcesso.datasource">
+      <publishTime>11/21/2024 22:26:32</publishTime>
+    </File>
+    <File Include="Service References/WsBDCC/AgendamentoCargaSoltaDDC.WsBDCC.BdccCnpjEmpresa.datasource">
+      <publishTime>11/21/2024 22:26:32</publishTime>
+    </File>
+    <File Include="Service References/WsBDCC/AgendamentoCargaSoltaDDC.WsBDCC.TecondiBdccCrachaResponse.datasource">
+      <publishTime>11/21/2024 22:26:32</publishTime>
+    </File>
+    <File Include="Service References/WsBDCC/AgendamentoCargaSoltaDDC.WsBDCC.TecondiBdccResponse.datasource">
+      <publishTime>11/21/2024 22:26:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/22/2024 09:23:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
